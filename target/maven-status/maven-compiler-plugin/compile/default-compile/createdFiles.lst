@@ -1,0 +1,7 @@
+com\mycompany\myapp\view\AbstractScene.class
+module-info.class
+com\mycompany\myapp\view\RelatoriosScene.class
+com\mycompany\myapp\App.class
+com\mycompany\myapp\view\ConfigScene.class
+com\mycompany\myapp\view\MainScene.class
+com\mycompany\myapp\model\Config.class
